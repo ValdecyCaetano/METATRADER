@@ -1,0 +1,2 @@
+# METATRADER
+ Análises metatrader
